@@ -22,7 +22,7 @@ export default class GamePage extends React.Component {
                     return (
                       <Carousel.Item>
                         <img
-                          className="d-block w-100"
+                          className="skeleton d-block w-100"
                           src={Screens}
                           alt="First slide"
                         />
@@ -50,7 +50,7 @@ export default class GamePage extends React.Component {
                 <img
                   src={data.Games[this.props.id].Icon}
                   alt="..."
-                  className=" img-fluid"
+                  className="icon img-fluid"
                 ></img>
               </div>
               <div class="container">
@@ -90,7 +90,10 @@ export default class GamePage extends React.Component {
 
         <div class="video-container">
           <iframe
-            src={data.Games[this.props.id].Youtube + "?autoplay=1&mute=1"}
+            src={
+              data.Games[this.props.id].Youtube +
+              "?autoplay=1&mute=1&autohide=1&showinfo=0&controls=1"
+            }
             frameborder="0"
             allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
             allowfullscreen

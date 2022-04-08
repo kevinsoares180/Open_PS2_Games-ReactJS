@@ -5,7 +5,6 @@ import GamePage from "../GamePage/GamePage";
 
 const ExactPath = () => {
   const { idroute } = useParams();
-  console.log("myid " + idroute);
 
   return (
     <>

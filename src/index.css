@@ -27,6 +27,12 @@ a {
 .thumbnail img {
   width: 100%;
 }
+.skeleton {
+  min-height: 100%;
+  background-color: rgb(71, 71, 71);
+  border: 2px solid rgb(34, 34, 34);
+  height: 100%;
+}
 .mymainthumb:hover {
   -webkit-filter: brightness(1.35);
   filter: brightness(1.35);
@@ -254,6 +260,8 @@ h1 {
   text-align: center;
   border-bottom: 1px solid rgb(53, 53, 53);
   font-family: Arial, Helvetica, sans-serif;
+  clear: both;
+  overflow: hidden;
 }
 .game-info {
   margin: 5px;
@@ -313,7 +321,9 @@ h1 {
   width: 100%;
   margin-top: 10px;
 }
-
+.icon {
+  border: 2px solid rgb(34, 34, 34);
+}
 .video-container::after {
   padding-top: 56.25%;
   display: block;
@@ -329,6 +339,7 @@ h1 {
 }
 .form-inline {
   display: flex;
+  flex: 1;
   margin-left: 10px;
   align-items: center;
 }
@@ -349,4 +360,7 @@ h1 {
 
 .btn {
   margin-top: 20px;
+}
+.svg {
+  width: 200px;
 }

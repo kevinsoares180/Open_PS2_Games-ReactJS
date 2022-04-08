@@ -102,8 +102,8 @@
       "Icon": "https://i.imgur.com/7hAzE3U.jpg",
       "Youtube": "https://www.youtube.com/embed/z0izDdzXlXA",
       "Screenshots": [
-        "https://i.imgur.com/OvhTpGW.jpg",
         "https://i.imgur.com/sfQjLfO.jpg",
+        "https://i.imgur.com/58KASII.jpg",
         "https://i.imgur.com/EA4r1St.jpg"
       ],
       "DownloadURL": "https://www.dropbox.com/s/3rm8zbmhpaahbc3/HOSPITAL%20BLACK%20RIVER%201.6.2.rar?dl=1"
@@ -111,20 +111,56 @@
     {
       "ID": "6",
       "Name": "God Of War 2",
-      "Date": "2005",
+      "Date": "2007",
       "Developer": "Sony Interactive",
       "Price": "Gratuito",
-      "Sobre": "Baseada em distintas mitologias, a história segue Kratos, um guerreiro espartano que foi levado a matar sua família por seu antigo mestre, o deus da guerra Ares. Isso desencadeia uma série de eventos que levam à guerras com os panteões mitológicos.",
+      "Sobre": "Após Kratos se tornar o novo deus da guerra, passa a guiar os soldados de Esparta, liderando-os sobre várias batalhas e destruindo várias cidades. Antes de descer do Olimpo para ajudar seus guerreiros espartanos a destruir a cidade de Rodes, Kratos é avisado por Atena sobre as consequências de seus atos.",
       "Genre": ["Ação", "Hack N' Slash"],
       "Player": ["Offline", "Um Jogador"],
-      "Icon": "https://i.imgur.com/7hAzE3U.jpg",
-      "Youtube": "https://www.youtube.com/embed/z0izDdzXlXA",
+      "Icon": "https://i.imgur.com/0ZDzVk9.png",
+      "Youtube": "https://www.youtube.com/embed/eBfDRA0ZI-A",
       "Screenshots": [
-        "https://i.imgur.com/OvhTpGW.jpg",
-        "https://i.imgur.com/sfQjLfO.jpg",
-        "https://i.imgur.com/EA4r1St.jpg"
+        "https://i.imgur.com/lqFkAES.jpg",
+        "https://i.imgur.com/64xIHbs.jpg",
+        "https://i.imgur.com/icp1f0Z.jpg"
       ],
       "DownloadURL": "https://www.dropbox.com/s/3rm8zbmhpaahbc3/HOSPITAL%20BLACK%20RIVER%201.6.2.rar?dl=1"
+    },
+    {
+      "ID": "7",
+      "Name": "Indigo Prophecy",
+      "Date": "2005",
+      "Developer": "Quantic Dream",
+      "Price": "Gratuito",
+      "Sobre": "Ambientado em uma Nova Iorque fictícia do ano de 2009, o jogo acompanha os estranhos eventos que acabam ligando as vidas de Lucas Kane, Carla Valenti e Tyler Miles. O jogo começa em um banheiro de restaurante, onde o jovem Lucas em estado de transe hipnótico acaba de apunhalar um homem até a morte.",
+      "Genre": ["Filme Interativo", "Suspense"],
+      "Player": ["Offline", "Um Jogador"],
+      "Icon": "https://i.imgur.com/7zPfqjA.jpg",
+      "Youtube": "https://www.youtube.com/embed/vx7Bq13LvTE",
+      "Screenshots": [
+        "https://i.imgur.com/AqWYCn9.jpg",
+        "https://i.imgur.com/TGr2zjL.jpg",
+        "https://i.imgur.com/xz6CeE9.jpg"
+      ],
+      "DownloadURL": "https://www.dropbox.com/s/3rm8zbmhpaahbc3/HOSPITAL%20BLACK%20RIVER%201.6.2.rar?dl=1"
+    },
+    {
+      "ID": "8",
+      "Name": "Resident Evil Code Veronica X",
+      "Date": "2000",
+      "Developer": "Capcom",
+      "Price": "Gratuito",
+      "Sobre": "Claire Redfield é presa ao invadir a sede da Umbrella Corporation em Paris após uma frustrante busca por documentos que a ajudassem a encontrar seu irmão. Após a prisão, ela é levada à Ilha Rockfort, pertencente à Umbrella.",
+      "Genre": ["Ação", "Suspense"],
+      "Player": ["Offline", "Um Jogador"],
+      "Icon": "https://i.imgur.com/tZvTgqt.jpg",
+      "Youtube": "https://www.youtube.com/embed/JJVquFk-mAM",
+      "Screenshots": [
+        "https://i.imgur.com/m7f5DwC.jpg",
+        "https://i.imgur.com/YMv2Qdz.jpg",
+        "https://i.imgur.com/5skmizS.jpg"
+      ],
+      "DownloadURL": "https://www.dropbox.com/s/t0m5qljnnxxg3s1/Happy%20Kingdoms.rar?dl=1"
     }
   ]
 }
