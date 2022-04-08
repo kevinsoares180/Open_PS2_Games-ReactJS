@@ -1,13 +1,352 @@
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  background-color: rgb(14, 14, 14);
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+p {
+  color: white;
+  font-family: Verdana;
+}
+a {
+  color: white;
+  font-family: Verdana;
+}
+.img-thumbnail {
+  padding: 3px;
+  transition-duration: 0.3s;
+  background-color: black;
+  border: 1px solid rgb(34, 34, 34);
+}
+.thumbnail {
+  position: relative;
+  padding: 0px;
+  margin-bottom: 20px;
+}
+.thumbnail img {
+  width: 100%;
+}
+.mymainthumb:hover {
+  -webkit-filter: brightness(1.35);
+  filter: brightness(1.35);
+  cursor: pointer;
+}
+h3 {
+  font-size: 18px;
+  font-family: Verdana;
+  color: white;
+}
+h4 {
+  font-size: 20px;
+  font-family: Verdana;
+  color: white;
+}
+.myform {
+  border: none;
+  font-family: Verdana;
+  color: white;
+}
+.myform:hover {
+  color: white;
+}
+.myform:enabled {
+  color: white;
+}
+.mynavbar {
+  background-color: rgb(32, 32, 32);
+  margin-bottom: 20px;
+}
+.navbar-brand {
+  font-family: Verdana;
+}
+.nav-title {
+  color: white;
+  margin-left: 20px;
+  text-decoration: none;
+  font-weight: bold;
+}
+.mybtn {
+  border: 1px solid rgb(75, 75, 75);
+  color: white;
+  font-family: Verdana;
+}
+.mybtn:hover {
+  color: white;
+  font-family: Verdana;
+}
+.site-footer {
+  background-color: rgb(32, 32, 32);
+  padding: 20px;
+  color: white;
+  font-family: Verdana;
+}
+.myscreenshots {
+  display: inline-flex;
+}
+.image-container {
+  background-color: rgb(34, 34, 34);
+}
+.img-thumbnail {
+  background-color: rgb(32, 32, 32);
+  object-fit: cover;
+}
+.download {
+  border-radius: 15px;
+  padding: 15px;
+  background-color: rgb(72, 255, 0);
+  display: inline-block;
+}
+.download-btn {
+  width: 50%;
+  transform: translateY(-15px);
+  border-radius: 15px;
+  padding: 15px;
+  background-color: rgb(0, 0, 0);
+}
+.site-footer {
+  position: relative;
+  /* negative value of footer height */
+  height: 180px;
+  clear: both;
+}
+h1 {
+  color: rgb(136, 136, 136);
+}
+.myimg {
+  margin-top: 10px;
+  border-radius: 10px;
+  background-color: rgb(32, 32, 32);
+  padding-bottom: 15px;
+  margin-bottom: 10px;
+}
+.mycaption {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+.mybutton {
+  font-size: large;
+  border-radius: 5px;
+  color: rgb(0, 0, 0);
+  font-family: Verdana;
+  border: 1px solid black;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgb(192, 161, 60);
+  margin-top: 5px;
+  position: relative;
+  bottom: 10px;
+  font-weight: bold;
+}
+.mybutton:hover {
+  background-color: rgb(255, 197, 7);
+}
+.mydescription {
+  background-color: rgb(61, 61, 61);
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+@media (min-width: 280px) {
+  .mygames {
+    transform: translateX(0px);
+  }
+}
+
+@media (min-width: 375px) {
+  .mygames {
+    transform: translateX(5px);
+  }
+}
+@media (min-width: 414px) {
+  .mygames {
+    transform: translateX(0px);
+  }
+}
+@media (min-width: 540px) {
+  .mygames {
+    transform: translateX(35px);
+  }
+}
+@media (min-width: 541px) {
+  .mygames {
+    transform: translateX(-10px);
+  }
+}
+@media (min-width: 510px) {
+  .mygames {
+    transform: translateX(0px);
+  }
+}
+.mytitle {
+  color: white;
+  margin-left: 20px;
+}
+.mytitle:hover {
+  color: rgb(81, 255, 0);
+  transition-duration: 0.3s;
+}
+.myslider {
+  margin-top: 20px;
+}
+.carousel-caption h3 {
+  font-weight: bold;
+  font-size: 1.2em; /* small size since this is the default in Bootstrap */
+  text-align: left;
+}
+.carousel-caption p {
+  font-size: 1em; /* small size since this is the default in Bootstrap */
+  text-align: left;
+}
+@media (min-width: 0px) {
+  .carousel-caption h3 {
+    font-size: 0.9em;
+  }
+  .carousel-caption p {
+    font-size: 0.6em;
+  }
+}
+
+@media (min-width: 536px) {
+  .carousel-caption h3 {
+    font-size: 1.3em;
+  }
+  .carousel-caption p {
+    font-size: 1.1em;
+  }
+}
+@media (min-width: 768px) {
+  .carousel-caption h3 {
+    font-size: 1.4em;
+  }
+  .carousel-caption p {
+    font-size: 1.2em;
+  }
+}
+@media (min-width: 992px) {
+  .carousel-caption h3 {
+    font-size: 1.5em;
+  }
+  .carousel-caption p {
+    font-size: 1.3em;
+  }
+}
+@media (min-width: 1200px) {
+  .carousel-caption h3 {
+    font-size: 1.6em;
+  }
+  .carousel-caption p {
+    font-size: 1.4em;
+  }
+}
+.card-game {
+  display: table;
+  text-align: center;
+  /* border: 1px solid rgb(53, 53, 53);*/
+  transform: scale(0.9);
+  padding: 15px;
+  border-radius: 15px;
+  /*  background-color: rgba(27, 27, 27, 0.613);*/
+}
+.game-title {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 5px;
+  text-align: center;
+  border-bottom: 1px solid rgb(53, 53, 53);
+  font-family: Arial, Helvetica, sans-serif;
+}
+.game-info {
+  margin: 5px;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.game-tags {
+  text-align: center;
+  background-color: rgba(57, 57, 57, 0.722);
+  font-size: medium;
+  border-radius: 5px;
+  cursor: pointer;
+  width: 50%;
+  margin: 5px auto;
+}
+.game-tags:hover {
+  background-color: rgb(93, 93, 93);
+}
+.button-container {
+  margin-top: 25px;
+  display: flex;
+  justify-content: center;
+}
+.plataform {
+  position: fixed;
+  border: 1px solid rgb(159, 159, 159);
+  background-color: rgba(0, 0, 0, 0.704);
+  padding: 1px 4px 1px 4px;
+  color: rgb(255, 255, 255);
+  transform: translateY(-40px);
+  margin-left: 10px;
+}
+.card-text {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 5px;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.card-title {
+  padding: 5px;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: medium;
+  border-bottom: 2px solid rgba(57, 57, 57, 0.722);
+}
+.game-gen {
+  border-bottom: 1px solid rgba(57, 57, 57, 0.722);
+  border-left: 1px solid rgba(57, 57, 57, 0.722);
+  border-right: 1px solid rgba(57, 57, 57, 0.722);
+  border-radius: 15px 15px 15px 15px;
+  margin: auto;
+}
+.video-container {
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+  margin-top: 10px;
+}
+
+.video-container::after {
+  padding-top: 56.25%;
+  display: block;
+  content: "";
+}
+
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.form-inline {
+  display: flex;
+  margin-left: 10px;
+  align-items: center;
+}
+
+.form-control {
+  color: white;
+  margin: 10px;
+  margin-right: 50px;
+  background-color: rgba(57, 57, 57, 0.722);
+  border: none;
+}
+.form-control:focus {
+  color: white;
+  background-color: rgba(57, 57, 57, 0.722);
+  box-shadow: none;
+  border: none;
+}
+
+.btn {
+  margin-top: 20px;
 }

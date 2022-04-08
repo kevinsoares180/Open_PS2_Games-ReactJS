@@ -1,0 +1,130 @@
+{
+  "Games": [
+    {
+      "ID": "0",
+      "Name": "Grand Theft Auto San Andreas",
+      "Date": "2004",
+      "Developer": "Rockstar Games",
+      "Price": "Gratuito",
+      "Sobre": "Depois de viver por cinco anos em Liberty City, Carl 'CJ' Johnson retorna a Los Santos em 1992 para o enterro de sua mãe, assassinada em um tiroteio. No caminho entre o aeroporto e o bairro, CJ é parado pela guarnição de Frank Tenpenny e Eddie Pulaski, que plantam uma evidência usada no assassinato de um outro policial, a fim de chantageá-lo para alguns trabalhos no futuro.",
+      "Genre": ["Mundo Aberto", "Tiro"],
+      "Player": ["Multijogador Local", "Um Jogador"],
+      "Icon": "https://i.imgur.com/L9zSHak.jpg",
+      "Youtube": "https://www.youtube.com/embed/XkNysIT2Zzw",
+      "Screenshots": [
+        "https://i.imgur.com/0nXtMLi.jpg",
+        "https://i.imgur.com/vf2eM2E.jpg",
+        "https://i.imgur.com/HRYUs2B.jpg"
+      ],
+      "DownloadURL": "https://download1490.mediafire.com/fi535xxzmmpg/fyr5r95byfv7oyc/SLUS_209.46.Grand+Theft+Auto+San+Andreas.rar"
+    },
+    {
+      "ID": "1",
+      "Name": "Scarface",
+      "Date": "2006",
+      "Developer": "Radical Entertainment",
+      "Price": "Gratuito",
+      "Sobre": "O jogo começa na cena final do filme, com Tony Montana (Al Pacino) na sua mansão que está sendo invadida por assassinos de Alejandro Sosa. Em um ponto de divergência do filme, Tony mata o assassino de Sosa, que iria matá-lo. Com a ajuda de alguns de seus capangas sobreviventes, Tony consegue escapar.",
+      "Genre": ["Mundo Aberto", "Ação"],
+      "Player": ["Offline", "Um Jogador"],
+      "Icon": "https://i.imgur.com/97Rt4jt.jpg",
+      "Youtube": "https://www.youtube.com/embed/CHDo6mgl-SA",
+      "Screenshots": [
+        "https://i.imgur.com/3w0a4OF.png",
+        "https://i.imgur.com/OGSiyLr.png",
+        "https://i.imgur.com/Bt6FFSO.png"
+      ],
+      "DownloadURL": "https://download1980.mediafire.com/flwdt9fz20og/rgemyv41jyghjzz/SLUS_211.11.Scarface+-+The+World+is+Yours.rar"
+    },
+    {
+      "ID": "2",
+      "Name": "Resident Evil 4",
+      "Date": "2005",
+      "Developer": "Capcom",
+      "Price": "Gratuito",
+      "Sobre": "O agente especial do governo dos Estados Unidos Leon S. Kennedy, que é enviado em uma missão para resgatar Ashley Graham, filha do presidente americano, que foi raptada por uma seita macabra. Ele viaja para uma área rural da Espanha, onde luta contra hordas de moradores violentos e monstros mutantes, e se reúne com a misteriosa espiã Ada Wong.",
+      "Genre": ["Ação", "Suspense"],
+      "Player": ["Offline", "Um Jogador"],
+      "Icon": "https://i.imgur.com/5xMGgEP.jpg",
+      "Youtube": "https://www.youtube.com/embed/tKSNpD735Uc",
+      "Screenshots": [
+        "https://i.imgur.com/cRXXnr5.png",
+        "https://i.imgur.com/PxFpBBd.jpg",
+        "https://i.imgur.com/gNYIRSe.jpg"
+      ],
+      "DownloadURL": "https://www.dropbox.com/s/t0m5qljnnxxg3s1/Happy%20Kingdoms.rar?dl=1"
+    },
+    {
+      "ID": "3",
+      "Name": "Dragon Ball Z Budokai Tenkaichi 3",
+      "Date": "2007",
+      "Developer": "Spike",
+      "Price": "Gratuito",
+      "Sobre": "O Modo História do Dragon Ball Z Budokai Tenkaichi 3 é dividido em sagas para você lutar contra os personagens do Dragon Ball.",
+      "Genre": ["Luta", "Anime"],
+      "Player": ["Dois Jogadores", "Um Jogador"],
+      "Icon": "https://i.imgur.com/BMCmrJ4.jpg",
+      "Youtube": "https://www.youtube.com/embed/2UqRHZcTohg",
+      "Screenshots": [
+        "https://i.imgur.com/QicL2sv.png",
+        "https://i.imgur.com/Qs85GBX.jpg",
+        "https://i.imgur.com/5hvo1R4.jpg"
+      ],
+      "DownloadURL": "https://www.dropbox.com/s/xaq88tcttac35bg/ALONE%20IN%20THE%20HOUSE%20V0.01.rar?dl=1"
+    },
+    {
+      "ID": "4",
+      "Name": "Black",
+      "Date": "2006",
+      "Developer": "Criterion Games",
+      "Price": "Gratuito",
+      "Sobre": "Keller, um soldado que foi preso após desobedecer inúmeras ordens nos últimos 5 dias e deve colaborar com o governo para salvar sua vida de uma prisão perpétua. Enquanto Keller conta a história, o jogador a revive na pele do soldado.",
+      "Genre": ["Ação", "Tiro"],
+      "Player": ["Offline", "Um Jogador"],
+      "Icon": "https://i.imgur.com/voee7KF.jpg",
+      "Youtube": "https://www.youtube.com/embed/HcBYW2TgVF0",
+      "Screenshots": [
+        "https://i.imgur.com/SUt7oNx.jpg",
+        "https://i.imgur.com/MZkiLEC.jpg",
+        "https://i.imgur.com/TZ2HnoO.jpg"
+      ],
+      "DownloadURL": "https://www.dropbox.com/s/t8x53rmir6u1g7u/the%20wizard%20adventures.rar?dl=1"
+    },
+    {
+      "ID": "5",
+      "Name": "God Of War 1",
+      "Date": "2005",
+      "Developer": "Sony Interactive",
+      "Price": "Gratuito",
+      "Sobre": "Baseada em distintas mitologias, a história segue Kratos, um guerreiro espartano que foi levado a matar sua família por seu antigo mestre, o deus da guerra Ares. Isso desencadeia uma série de eventos que levam à guerras com os panteões mitológicos.",
+      "Genre": ["Ação", "Hack N' Slash"],
+      "Player": ["Offline", "Um Jogador"],
+      "Icon": "https://i.imgur.com/7hAzE3U.jpg",
+      "Youtube": "https://www.youtube.com/embed/z0izDdzXlXA",
+      "Screenshots": [
+        "https://i.imgur.com/OvhTpGW.jpg",
+        "https://i.imgur.com/sfQjLfO.jpg",
+        "https://i.imgur.com/EA4r1St.jpg"
+      ],
+      "DownloadURL": "https://www.dropbox.com/s/3rm8zbmhpaahbc3/HOSPITAL%20BLACK%20RIVER%201.6.2.rar?dl=1"
+    },
+    {
+      "ID": "6",
+      "Name": "God Of War 2",
+      "Date": "2005",
+      "Developer": "Sony Interactive",
+      "Price": "Gratuito",
+      "Sobre": "Baseada em distintas mitologias, a história segue Kratos, um guerreiro espartano que foi levado a matar sua família por seu antigo mestre, o deus da guerra Ares. Isso desencadeia uma série de eventos que levam à guerras com os panteões mitológicos.",
+      "Genre": ["Ação", "Hack N' Slash"],
+      "Player": ["Offline", "Um Jogador"],
+      "Icon": "https://i.imgur.com/7hAzE3U.jpg",
+      "Youtube": "https://www.youtube.com/embed/z0izDdzXlXA",
+      "Screenshots": [
+        "https://i.imgur.com/OvhTpGW.jpg",
+        "https://i.imgur.com/sfQjLfO.jpg",
+        "https://i.imgur.com/EA4r1St.jpg"
+      ],
+      "DownloadURL": "https://www.dropbox.com/s/3rm8zbmhpaahbc3/HOSPITAL%20BLACK%20RIVER%201.6.2.rar?dl=1"
+    }
+  ]
+}
