@@ -1,12 +1,12 @@
-                                                           Open PS2 Games
+                                         Open PS2 Games
                                                                    
-                            Um projeto de reunir os melhores jogos de PS2 em um site moderno e confortavel
+          Um projeto de reunir os melhores jogos de PS2 em um site moderno e confortavel
                           
                           
-                                                        Tecnologias Usadas
-                                                   Html Css Boostrap Javascript 
+                                       tecnologias Usadas
+                                  Html Css Boostrap Javascript 
                                                   
-                                            React com State, Effect, Context, React Router
+                          React com State, Effect, Context, React Router
                                   
                                   
                                   
