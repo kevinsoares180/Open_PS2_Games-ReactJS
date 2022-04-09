@@ -6,7 +6,7 @@
                                        tecnologias Usadas
                                   Html Css Boostrap Javascript 
                                                   
-                          React com State, Effect, Context, React Router
+                          React com State, Effect, Context, Router
                                   
                                   
                                   
