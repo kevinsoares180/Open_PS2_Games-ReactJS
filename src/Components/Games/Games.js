@@ -30,7 +30,7 @@ const Games = () => {
                       <img
                         src={Gamx.Icon}
                         alt="..."
-                        className="mymainthumb img-thumbnail img-fluid"
+                        className="mymainthumb img-fluid"
                       ></img>
                     </Link>
                   </div>
@@ -70,7 +70,7 @@ const Games = () => {
                       <img
                         src={Gamx.Icon}
                         alt="..."
-                        className="mymainthumb img-thumbnail img-fluid"
+                        className="mymainthumb img-fluid"
                       ></img>
                     </Link>
                   </div>

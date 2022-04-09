@@ -1,3 +1,118 @@
 .Game {
   background-color: red;
 }
+.heart {
+  cursor: pointer;
+  width: 25px;
+  background-size: cover;
+  transition: 0.1s ease-in-out;
+  filter: drop-shadow(0px -1px 0px #5353539f) drop-shadow(0px 1px 0px #5353539f)
+    drop-shadow(0px 0px 1px #5353539f) drop-shadow(0px 0px 0px #5353539f);
+}
+.heart:hover {
+  transform: scale(1.2);
+}
+.card-game {
+  display: table;
+  text-align: center;
+  /* border: 1px solid rgb(53, 53, 53);*/
+  transform: scale(0.9);
+  padding: 15px;
+  border-radius: 15px;
+  /*  background-color: rgba(27, 27, 27, 0.613);*/
+}
+.game-title {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 5px;
+  text-align: center;
+  border-bottom: 1px solid rgb(53, 53, 53);
+  font-family: Arial, Helvetica, sans-serif;
+  clear: both;
+  overflow: hidden;
+}
+.game-info {
+  margin: 5px;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.game-tags {
+  text-align: center;
+  background-color: rgba(57, 57, 57, 0.722);
+  font-size: medium;
+  border-radius: 5px;
+  cursor: pointer;
+  width: 50%;
+  margin: 5px auto;
+}
+.game-tags:hover {
+  background-color: rgb(93, 93, 93);
+}
+.card-text {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 5px;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.card-title {
+  padding: 5px;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: medium;
+  border-bottom: 2px solid rgba(57, 57, 57, 0.722);
+}
+
+.plataform {
+  position: fixed;
+  border: 1px solid rgb(159, 159, 159);
+  background-color: rgba(0, 0, 0, 0.704);
+  padding: 1px 4px 1px 4px;
+  color: rgb(255, 255, 255);
+  transform: translateY(-40px);
+  margin-left: 10px;
+}
+@media (min-width: 280px) {
+  .mygames {
+    transform: translateX(0px);
+  }
+}
+
+@media (min-width: 375px) {
+  .mygames {
+    transform: translateX(5px);
+  }
+}
+@media (min-width: 414px) {
+  .mygames {
+    transform: translateX(0px);
+  }
+}
+@media (min-width: 540px) {
+  .mygames {
+    transform: translateX(35px);
+  }
+}
+@media (min-width: 541px) {
+  .mygames {
+    transform: translateX(-10px);
+  }
+}
+@media (min-width: 510px) {
+  .mygames {
+    transform: translateX(0px);
+  }
+}
+.mymainthumb {
+  width: 100%;
+  padding: 3px;
+  background-color: black;
+  border: 1px solid rgb(34, 34, 34);
+  background-color: rgb(32, 32, 32);
+  object-fit: cover;
+}
+.mymainthumb:hover {
+  -webkit-filter: brightness(1.35);
+  filter: brightness(1.35);
+  cursor: pointer;
+}

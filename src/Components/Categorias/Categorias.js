@@ -1,6 +1,5 @@
-import React, { useContext } from "react";
+import React from "react";
 import { Link } from "react-router-dom";
-import { inputContext } from "../NavBar/NavBar";
 import dataCategory from "../../data-category.json";
 
 const Categorias = () => {
@@ -17,7 +16,7 @@ const Categorias = () => {
                       <img
                         src={Gamx.Icon}
                         alt="..."
-                        className="mymainthumb img-thumbnail img-fluid"
+                        className="mymainthumb img-fluid"
                       ></img>
                     </Link>
                   </div>

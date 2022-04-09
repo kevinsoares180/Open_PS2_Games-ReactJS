@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React, { useState } from "react";
 import Games from "./Components/Games/Games";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import ExactPath from "./Components/ExactPath/ExactPath";
@@ -8,6 +8,8 @@ import data from "./data.json";
 import Categorias from "./Components/Categorias/Categorias";
 import Favoritos from "./Components/Favoritos/Favoritos";
 import GamesCategory from "./Components/GamesCategory.js/GamesCategory";
+import Footer from "./Components/Footer/Footer";
+import Error from "./Components/Error/Error";
 
 function App() {
   const [inputText, setInputText] = useState(data.Games);
@@ -18,6 +20,8 @@ function App() {
       <BrowserRouter>
         <Navbar setProps={setInputText} setPropsWithout={setInputTextWithout} />
         <Routes>
+          <Route path="*" exact={true} element={<Error />} />
+
           <Route
             path="/"
             element={
@@ -26,25 +30,23 @@ function App() {
               </inputContext.Provider>
             }
           ></Route>
-        </Routes>
-        <Routes>
+
           <Route path="/categorias" element={<Categorias />}></Route>
-        </Routes>
-        <Routes>
+
           <Route path="/favoritos" element={<Favoritos />}></Route>
-        </Routes>
-        <Routes>
+
           <Route
             path={`/games/:idroute/:gamename`}
             element={<ExactPath />}
           ></Route>
-        </Routes>
-        <Routes>
+
           <Route
             path={`/categoria/:categoryURL`}
             element={<GamesCategory />}
           ></Route>
         </Routes>
+
+        <Footer />
       </BrowserRouter>
     </>
   );

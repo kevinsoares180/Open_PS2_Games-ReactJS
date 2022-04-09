@@ -1,0 +1,16 @@
+.gameover {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin: auto;
+  margin-left: 0px;
+}
+.favorite {
+  position: fixed;
+  padding: 1px 4px 1px 4px;
+  color: rgb(255, 255, 255);
+  top: 30px;
+  right: 45px;
+  margin-left: 10px;
+}

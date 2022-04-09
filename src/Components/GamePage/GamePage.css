@@ -1,0 +1,89 @@
+.game-gen {
+  border-bottom: 1px solid rgba(57, 57, 57, 0.722);
+  border-left: 1px solid rgba(57, 57, 57, 0.722);
+  border-right: 1px solid rgba(57, 57, 57, 0.722);
+  border-radius: 15px 15px 15px 15px;
+  margin: auto;
+}
+.video-container {
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+  margin-top: 10px;
+}
+.video-container::after {
+  padding-top: 56.25%;
+  display: block;
+  content: "";
+}
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.mytitle {
+  color: white;
+  margin-left: 20px;
+}
+.mytitle:hover {
+  color: rgb(81, 255, 0);
+  transition-duration: 0.3s;
+}
+.myslider {
+  margin-top: 20px;
+}
+.myscreenshots {
+  display: inline-flex;
+}
+.carousel-caption h3 {
+  font-weight: bold;
+  font-size: 1.2em; /* small size since this is the default in Bootstrap */
+  text-align: left;
+}
+.carousel-caption p {
+  font-size: 1em; /* small size since this is the default in Bootstrap */
+  text-align: left;
+}
+@media (min-width: 0px) {
+  .carousel-caption h3 {
+    font-size: 0.9em;
+  }
+  .carousel-caption p {
+    font-size: 0.6em;
+  }
+}
+
+@media (min-width: 536px) {
+  .carousel-caption h3 {
+    font-size: 1.3em;
+  }
+  .carousel-caption p {
+    font-size: 1.1em;
+  }
+}
+@media (min-width: 768px) {
+  .carousel-caption h3 {
+    font-size: 1.4em;
+  }
+  .carousel-caption p {
+    font-size: 1.2em;
+  }
+}
+@media (min-width: 992px) {
+  .carousel-caption h3 {
+    font-size: 1.5em;
+  }
+  .carousel-caption p {
+    font-size: 1.3em;
+  }
+}
+@media (min-width: 1200px) {
+  .carousel-caption h3 {
+    font-size: 1.6em;
+  }
+  .carousel-caption p {
+    font-size: 1.4em;
+  }
+}

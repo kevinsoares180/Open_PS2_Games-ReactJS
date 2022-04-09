@@ -3,6 +3,7 @@ import { Link } from "react-router-dom";
 import heartblack from "../Games/heartblack.svg";
 import heartred from "../Games/heartred.svg";
 import data from "../../data.json";
+import gameover from "./game-over.png";
 
 const Favoritos = () => {
   const [hasFavorite, setHasFavorite] = useState(false);
@@ -43,10 +44,11 @@ const Favoritos = () => {
                 Que pena :( você ainda não adicionou nenhum jogo ao seus
                 favoritos
               </p>
-              <img src="https://i.imgur.com/tcenHfN.png" alt="" />
+              <img className="img-fluid" src={gameover} alt="gameover" />
               <Link to="/">
-                {" "}
-                <a class="btn mybutton ">Encontrar Jogos</a>
+                <a class="btn mybutton" href={() => false}>
+                  Encontrar Jogos
+                </a>
               </Link>
             </div>
           )}
@@ -63,7 +65,7 @@ const Favoritos = () => {
                         <img
                           src={Gamx.Icon}
                           alt="..."
-                          className="mymainthumb img-thumbnail img-fluid"
+                          className="mymainthumb img-fluid"
                         ></img>
                       </Link>
                     </div>

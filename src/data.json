@@ -5,7 +5,6 @@
       "Name": "Grand Theft Auto San Andreas",
       "Date": "2004",
       "Developer": "Rockstar Games",
-      "Price": "Gratuito",
       "Sobre": "Depois de viver por cinco anos em Liberty City, Carl 'CJ' Johnson retorna a Los Santos em 1992 para o enterro de sua mãe, assassinada em um tiroteio. No caminho entre o aeroporto e o bairro, CJ é parado pela guarnição de Frank Tenpenny e Eddie Pulaski, que plantam uma evidência usada no assassinato de um outro policial, a fim de chantageá-lo para alguns trabalhos no futuro.",
       "Genre": ["Mundo Aberto", "Ação"],
       "Player": ["Multijogador Local", "Um Jogador"],
@@ -23,7 +22,6 @@
       "Name": "Scarface",
       "Date": "2006",
       "Developer": "Radical Entertainment",
-      "Price": "Gratuito",
       "Sobre": "O jogo começa na cena final do filme, com Tony Montana (Al Pacino) na sua mansão que está sendo invadida por assassinos de Alejandro Sosa. Em um ponto de divergência do filme, Tony mata o assassino de Sosa, que iria matá-lo. Com a ajuda de alguns de seus capangas sobreviventes, Tony consegue escapar.",
       "Genre": ["Mundo Aberto", "Ação"],
       "Player": ["Offline", "Um Jogador"],
@@ -41,7 +39,6 @@
       "Name": "Resident Evil 4",
       "Date": "2005",
       "Developer": "Capcom",
-      "Price": "Gratuito",
       "Sobre": "O agente especial do governo dos Estados Unidos Leon S. Kennedy, que é enviado em uma missão para resgatar Ashley Graham, filha do presidente americano, que foi raptada por uma seita macabra. Ele viaja para uma área rural da Espanha, onde luta contra hordas de moradores violentos e monstros mutantes, e se reúne com a misteriosa espiã Ada Wong.",
       "Genre": ["Ação", "Suspense"],
       "Player": ["Offline", "Um Jogador"],
@@ -52,14 +49,13 @@
         "https://i.imgur.com/PxFpBBd.jpg",
         "https://i.imgur.com/gNYIRSe.jpg"
       ],
-      "DownloadURL": "https://www.dropbox.com/s/t0m5qljnnxxg3s1/Happy%20Kingdoms.rar?dl=1"
+      "DownloadURL": ""
     },
     {
       "ID": "3",
       "Name": "Dragon Ball Z Budokai Tenkaichi 3",
       "Date": "2007",
       "Developer": "Spike",
-      "Price": "Gratuito",
       "Sobre": "O Modo História do Dragon Ball Z Budokai Tenkaichi 3 é dividido em sagas para você lutar contra os personagens do Dragon Ball.",
       "Genre": ["Luta", "Anime"],
       "Player": ["Dois Jogadores", "Um Jogador"],
@@ -70,14 +66,13 @@
         "https://i.imgur.com/Qs85GBX.jpg",
         "https://i.imgur.com/5hvo1R4.jpg"
       ],
-      "DownloadURL": "https://www.dropbox.com/s/xaq88tcttac35bg/ALONE%20IN%20THE%20HOUSE%20V0.01.rar?dl=1"
+      "DownloadURL": ""
     },
     {
       "ID": "4",
       "Name": "Black",
       "Date": "2006",
       "Developer": "Criterion Games",
-      "Price": "Gratuito",
       "Sobre": "Keller, um soldado que foi preso após desobedecer inúmeras ordens nos últimos 5 dias e deve colaborar com o governo para salvar sua vida de uma prisão perpétua. Enquanto Keller conta a história, o jogador a revive na pele do soldado.",
       "Genre": ["Ação", "Tiro"],
       "Player": ["Offline", "Um Jogador"],
@@ -88,14 +83,13 @@
         "https://i.imgur.com/MZkiLEC.jpg",
         "https://i.imgur.com/TZ2HnoO.jpg"
       ],
-      "DownloadURL": "https://www.dropbox.com/s/t8x53rmir6u1g7u/the%20wizard%20adventures.rar?dl=1"
+      "DownloadURL": ""
     },
     {
       "ID": "5",
       "Name": "God Of War 1",
       "Date": "2005",
       "Developer": "Sony Interactive",
-      "Price": "Gratuito",
       "Sobre": "Baseada em distintas mitologias, a história segue Kratos, um guerreiro espartano que foi levado a matar sua família por seu antigo mestre, o deus da guerra Ares. Isso desencadeia uma série de eventos que levam à guerras com os panteões mitológicos.",
       "Genre": ["Ação", "Hack N' Slash"],
       "Player": ["Offline", "Um Jogador"],
@@ -106,14 +100,13 @@
         "https://i.imgur.com/58KASII.jpg",
         "https://i.imgur.com/EA4r1St.jpg"
       ],
-      "DownloadURL": "https://www.dropbox.com/s/3rm8zbmhpaahbc3/HOSPITAL%20BLACK%20RIVER%201.6.2.rar?dl=1"
+      "DownloadURL": ""
     },
     {
       "ID": "6",
       "Name": "God Of War 2",
       "Date": "2007",
       "Developer": "Sony Interactive",
-      "Price": "Gratuito",
       "Sobre": "Após Kratos se tornar o novo deus da guerra, passa a guiar os soldados de Esparta, liderando-os sobre várias batalhas e destruindo várias cidades. Antes de descer do Olimpo para ajudar seus guerreiros espartanos a destruir a cidade de Rodes, Kratos é avisado por Atena sobre as consequências de seus atos.",
       "Genre": ["Ação", "Hack N' Slash"],
       "Player": ["Offline", "Um Jogador"],
@@ -124,14 +117,13 @@
         "https://i.imgur.com/64xIHbs.jpg",
         "https://i.imgur.com/icp1f0Z.jpg"
       ],
-      "DownloadURL": "https://www.dropbox.com/s/3rm8zbmhpaahbc3/HOSPITAL%20BLACK%20RIVER%201.6.2.rar?dl=1"
+      "DownloadURL": ""
     },
     {
       "ID": "7",
       "Name": "Indigo Prophecy",
       "Date": "2005",
       "Developer": "Quantic Dream",
-      "Price": "Gratuito",
       "Sobre": "Ambientado em uma Nova Iorque fictícia do ano de 2009, o jogo acompanha os estranhos eventos que acabam ligando as vidas de Lucas Kane, Carla Valenti e Tyler Miles. O jogo começa em um banheiro de restaurante, onde o jovem Lucas em estado de transe hipnótico acaba de apunhalar um homem até a morte.",
       "Genre": ["Filme-Interativo", "Suspense"],
       "Player": ["Offline", "Um Jogador"],
@@ -142,14 +134,13 @@
         "https://i.imgur.com/TGr2zjL.jpg",
         "https://i.imgur.com/xz6CeE9.jpg"
       ],
-      "DownloadURL": "https://www.dropbox.com/s/3rm8zbmhpaahbc3/HOSPITAL%20BLACK%20RIVER%201.6.2.rar?dl=1"
+      "DownloadURL": ""
     },
     {
       "ID": "8",
       "Name": "Resident Evil Code Veronica X",
       "Date": "2000",
       "Developer": "Capcom",
-      "Price": "Gratuito",
       "Sobre": "Claire Redfield é presa ao invadir a sede da Umbrella Corporation em Paris após uma frustrante busca por documentos que a ajudassem a encontrar seu irmão. Após a prisão, ela é levada à Ilha Rockfort, pertencente à Umbrella.",
       "Genre": ["Ação", "Suspense"],
       "Player": ["Offline", "Um Jogador"],
@@ -160,25 +151,24 @@
         "https://i.imgur.com/YMv2Qdz.jpg",
         "https://i.imgur.com/5skmizS.jpg"
       ],
-      "DownloadURL": "https://www.dropbox.com/s/t0m5qljnnxxg3s1/Happy%20Kingdoms.rar?dl=1"
+      "DownloadURL": ""
     },
     {
       "ID": "9",
       "Name": "Silent Hill 3",
       "Date": "2003",
       "Developer": "Konami",
-      "Price": "Gratuito",
       "Sobre": "Uma jovem chamada Heather Mason que teve um sonho bizarro sobre Silent Hill, o que leva-a à cidade para conhecer mais do seu passado. Heather acaba descobrindo que ela faz parte dos planos do culto da cidade.",
       "Genre": ["Terror", "Suspense"],
       "Player": ["Offline", "Um Jogador"],
       "Icon": "https://i.imgur.com/jEChV0k.jpg",
-      "Youtube": "https://www.youtube.com/embed/JJVquFk-mAM",
+      "Youtube": "https://www.youtube.com/embed/tl6cQXuH9to",
       "Screenshots": [
         "https://i.imgur.com/2z3n3ta.jpg",
         "https://i.imgur.com/5mqf7Hg.jpg",
         "https://i.imgur.com/MggUGfC.jpg"
       ],
-      "DownloadURL": "https://www.dropbox.com/s/t0m5qljnnxxg3s1/Happy%20Kingdoms.rar?dl=1"
+      "DownloadURL": ""
     }
   ]
 }
