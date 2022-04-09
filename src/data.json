@@ -7,7 +7,7 @@
       "Developer": "Rockstar Games",
       "Price": "Gratuito",
       "Sobre": "Depois de viver por cinco anos em Liberty City, Carl 'CJ' Johnson retorna a Los Santos em 1992 para o enterro de sua mãe, assassinada em um tiroteio. No caminho entre o aeroporto e o bairro, CJ é parado pela guarnição de Frank Tenpenny e Eddie Pulaski, que plantam uma evidência usada no assassinato de um outro policial, a fim de chantageá-lo para alguns trabalhos no futuro.",
-      "Genre": ["Mundo Aberto", "Tiro"],
+      "Genre": ["Mundo Aberto", "Ação"],
       "Player": ["Multijogador Local", "Um Jogador"],
       "Icon": "https://i.imgur.com/L9zSHak.jpg",
       "Youtube": "https://www.youtube.com/embed/XkNysIT2Zzw",
@@ -133,7 +133,7 @@
       "Developer": "Quantic Dream",
       "Price": "Gratuito",
       "Sobre": "Ambientado em uma Nova Iorque fictícia do ano de 2009, o jogo acompanha os estranhos eventos que acabam ligando as vidas de Lucas Kane, Carla Valenti e Tyler Miles. O jogo começa em um banheiro de restaurante, onde o jovem Lucas em estado de transe hipnótico acaba de apunhalar um homem até a morte.",
-      "Genre": ["Filme Interativo", "Suspense"],
+      "Genre": ["Filme-Interativo", "Suspense"],
       "Player": ["Offline", "Um Jogador"],
       "Icon": "https://i.imgur.com/7zPfqjA.jpg",
       "Youtube": "https://www.youtube.com/embed/vx7Bq13LvTE",
@@ -159,6 +159,24 @@
         "https://i.imgur.com/m7f5DwC.jpg",
         "https://i.imgur.com/YMv2Qdz.jpg",
         "https://i.imgur.com/5skmizS.jpg"
+      ],
+      "DownloadURL": "https://www.dropbox.com/s/t0m5qljnnxxg3s1/Happy%20Kingdoms.rar?dl=1"
+    },
+    {
+      "ID": "9",
+      "Name": "Silent Hill 3",
+      "Date": "2003",
+      "Developer": "Konami",
+      "Price": "Gratuito",
+      "Sobre": "Uma jovem chamada Heather Mason que teve um sonho bizarro sobre Silent Hill, o que leva-a à cidade para conhecer mais do seu passado. Heather acaba descobrindo que ela faz parte dos planos do culto da cidade.",
+      "Genre": ["Terror", "Suspense"],
+      "Player": ["Offline", "Um Jogador"],
+      "Icon": "https://i.imgur.com/jEChV0k.jpg",
+      "Youtube": "https://www.youtube.com/embed/JJVquFk-mAM",
+      "Screenshots": [
+        "https://i.imgur.com/2z3n3ta.jpg",
+        "https://i.imgur.com/5mqf7Hg.jpg",
+        "https://i.imgur.com/MggUGfC.jpg"
       ],
       "DownloadURL": "https://www.dropbox.com/s/t0m5qljnnxxg3s1/Happy%20Kingdoms.rar?dl=1"
     }

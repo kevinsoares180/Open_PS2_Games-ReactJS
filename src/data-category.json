@@ -1,0 +1,64 @@
+{
+  "Category": [
+    {
+      "ID": "0",
+      "Name": "Corrida",
+      "Icon": "https://i.imgur.com/cEPou2I.jpg"
+    },
+    {
+      "ID": "1",
+      "Name": "Terror",
+      "Icon": "https://i.imgur.com/ai1WDzH.jpg"
+    },
+    {
+      "ID": "2",
+      "Name": "Mundo Aberto",
+      "Icon": "https://i.imgur.com/2xJjcJb.jpg"
+    },
+    {
+      "ID": "3",
+      "Name": "Ação",
+      "Icon": "https://i.imgur.com/CNdLre2.jpg"
+    },
+    {
+      "ID": "4",
+      "Name": "Filme-Interativo",
+      "Icon": "https://i.imgur.com/V5eYcwl.jpg"
+    },
+    {
+      "ID": "5",
+      "Name": "Futebol",
+      "Icon": "https://i.imgur.com/BooveWt.jpg"
+    },
+    {
+      "ID": "6",
+      "Name": "Skate",
+      "Icon": "https://i.imgur.com/EWwFz0M.jpg"
+    },
+    {
+      "ID": "7",
+      "Name": "Furtivo",
+      "Icon": "https://i.imgur.com/8eSdpQJ.jpg"
+    },
+    {
+      "ID": "7",
+      "Name": "Luta",
+      "Icon": "https://i.imgur.com/0CNAxnI.jpg"
+    },
+    {
+      "ID": "7",
+      "Name": "Tiro",
+      "Icon": "https://i.imgur.com/sZy48Yh.jpg"
+    },
+    {
+      "ID": "8",
+      "Name": "Aventura",
+      "Icon": "https://i.imgur.com/tyqwNdX.jpg"
+    },
+    {
+      "ID": "9",
+      "Name": "Suspense",
+      "Icon": "https://i.imgur.com/vRlgLuo.jpg"
+    }
+  ]
+}

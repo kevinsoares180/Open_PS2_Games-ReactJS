@@ -1,10 +1,21 @@
-import React, { useContext, useEffect } from "react";
-import data from "../../data.json";
+import React, { useContext } from "react";
 import { Link } from "react-router-dom";
 import { inputContext } from "../NavBar/NavBar";
+import heartblack from "./heartblack.svg";
+import heartred from "./heartred.svg";
 
 const Games = () => {
   const input = useContext(inputContext);
+
+  function handleFavorite(idGame) {
+    if (localStorage.getItem("liked" + idGame)) {
+      document.getElementById(idGame).src = heartblack;
+      localStorage.removeItem("liked" + idGame);
+    } else {
+      document.getElementById(idGame).src = heartred;
+      localStorage.setItem("liked" + idGame, true);
+    }
+  }
 
   return (
     <>
@@ -24,6 +35,20 @@ const Games = () => {
                     </Link>
                   </div>
                   <p className="plataform">PS2</p>
+                  <p className="favorite">
+                    <img
+                      className=" heart"
+                      id={Gamx.ID}
+                      src={
+                        localStorage.getItem("liked" + Gamx.ID)
+                          ? heartred
+                          : heartblack
+                      }
+                      alt="heart"
+                      onClick={() => handleFavorite(Gamx.ID)}
+                    ></img>
+                  </p>
+
                   <h4 className="game-title">{Gamx.Name}</h4>
                   {/*(<p className="game-tags">{Gamx.Genre[0]}</p>*/}
                   {/* <p className="game-tags">{Gamx.Genre[1]}</p>*/}
@@ -50,6 +75,19 @@ const Games = () => {
                     </Link>
                   </div>
                   <p className="plataform">PS2</p>
+                  <p className="favorite">
+                    <img
+                      className=" heart"
+                      id={Gamx.ID}
+                      src={
+                        localStorage.getItem("liked" + Gamx.ID)
+                          ? heartred
+                          : heartblack
+                      }
+                      alt="heart"
+                      onClick={() => handleFavorite(Gamx.ID)}
+                    ></img>
+                  </p>
                   <h4 className="game-title">{Gamx.Name}</h4>
                   {/*(<p className="game-tags">{Gamx.Genre[0]}</p>*/}
                   {/* <p className="game-tags">{Gamx.Genre[1]}</p>*/}
