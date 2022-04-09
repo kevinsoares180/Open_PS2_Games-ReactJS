@@ -3,7 +3,7 @@
          'Um projeto de reunir os melhores jogos de PS2 em um site moderno e confortavel'
                           
                           
-                                       tecnologias Usadas
+                                       Tecnologias Usadas
                                   Html Css Boostrap Javascript 
                                                   
                             React com State, Effect, Context, Router
@@ -32,5 +32,5 @@
  
  
  
- #Projeto em Desenvolvimento mais jogos serão adicionados com link de download funcional
+ #Projeto em Desenvolvimento. Mais jogos serão adicionados com link de download funcional
  
