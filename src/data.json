@@ -169,6 +169,40 @@
         "https://i.imgur.com/MggUGfC.jpg"
       ],
       "DownloadURL": ""
+    },
+    {
+      "ID": "10",
+      "Name": "Brave: The Search for Spirit Dancer",
+      "Date": "2005",
+      "Developer": "SpoesSGamerS",
+      "Sobre": "No papel do jovem índio norte-americano Brave, jogadores devem passar por uma grande aventura de amadurecimento e magia. Quando a vila de Brave é atacada e escravizada pelo maligno Wendigo, ele parte em busca do mais poderoso xamã para salvar seus amigos: Spirit Dancer.",
+      "Genre": ["Aventura", "Ação"],
+      "Player": ["Offline", "Um Jogador"],
+      "Icon": "https://i.imgur.com/xbKy0fs.jpg",
+      "Youtube": "https://www.youtube.com/embed/j0zjrjxKluk",
+      "Screenshots": [
+        "https://i.imgur.com/K425pqN.jpg",
+        "https://i.imgur.com/GJmNXzn.jpg",
+        "https://i.imgur.com/z1KSre4.jpg"
+      ],
+      "DownloadURL": ""
+    },
+    {
+      "ID": "11",
+      "Name": "Need for Speed Most Wanted",
+      "Date": "2005",
+      "Developer": "Eletronic Arts",
+      "Sobre": "O protagonista chega em Rockport com a sua BMW M3 GTR, querendo fazer disputas com outros corredores. ",
+      "Genre": ["Corrida", "Aventura"],
+      "Player": ["Offline", "Um Jogador"],
+      "Icon": "https://i.imgur.com/4pxHRpl.jpg",
+      "Youtube": "https://www.youtube.com/embed/9A5qCarjf8M",
+      "Screenshots": [
+        "https://i.imgur.com/FpNOW6y.jpg",
+        "https://i.imgur.com/uzdAk3p.jpg",
+        "https://i.imgur.com/t7l4awO.jpg"
+      ],
+      "DownloadURL": ""
     }
   ]
 }
