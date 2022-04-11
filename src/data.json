@@ -203,6 +203,40 @@
         "https://i.imgur.com/t7l4awO.jpg"
       ],
       "DownloadURL": ""
+    },
+    {
+      "ID": "12",
+      "Name": "God Hand",
+      "Date": "2006",
+      "Developer": "Capcom",
+      "Sobre": "A história segue o lutador Gene, que após ter tido um braço decepado por uma série de rufias, encontra-se com a bela jovem Olivia que sendo a última guardiã viva das “God Hands” entrega a Gene a última God Hand, substituindo o seu braço perdido e dando-lhe novos poderes.",
+      "Genre": ["Ação", "Luta"],
+      "Player": ["Offline", "Um Jogador"],
+      "Icon": "https://i.imgur.com/h1WShNG.jpg",
+      "Youtube": "https://www.youtube.com/embed/ECXRWnQwh18",
+      "Screenshots": [
+        "https://i.imgur.com/2xQBDY6.jpg",
+        "https://i.imgur.com/dCHDpTG.jpg",
+        "https://i.imgur.com/NvG0Hum.jpg"
+      ],
+      "DownloadURL": ""
+    },
+    {
+      "ID": "13",
+      "Name": "Jurassic Park Operation Genesis",
+      "Date": "2003",
+      "Developer": "Blue Tongue",
+      "Sobre": "Monte e administre seu próprio park pré-historico com os dinossauros de Jurassic Park",
+      "Genre": ["Construção e Gerenciamento"],
+      "Player": ["Offline", "Um Jogador"],
+      "Icon": "https://i.imgur.com/Rs7nyyf.jpg",
+      "Youtube": "https://www.youtube.com/embed/mSJlZo_JgOs",
+      "Screenshots": [
+        "https://i.imgur.com/dCgymxr.jpg",
+        "https://i.imgur.com/zkhd7uR.jpg",
+        "https://i.imgur.com/9tfRpYl.jpg"
+      ],
+      "DownloadURL": ""
     }
   ]
 }
